@@ -43,6 +43,7 @@ End Game is a sleek and modern web app that lets players challenge friends or AI
 - [🚀 Features](#-features)
 - [▶️ Demo](#-demo)
 - [🧰 Tech Stack](#-tech-stack)
+- [📚 Libraries and APIs](#-libraries-and-apis)
 - [🛠️ Installation](#-installation)
 - [🧪 Usage](#-usage)
 - [👨‍💻 Code Examples](#-code-examples)
@@ -69,6 +70,8 @@ zustand
 ws
 react-router-dom
 
+## 📚 Libraries and APIs
+
 ## 🛠️ Installation
 
 ## 🧪 Usage
@@ -86,7 +89,7 @@ react-router-dom
 ## 👥 Contributors
 
 | [<img src="https://github.com/d-jason32.png" width="80px;"><br><sub>@Jason Devaraj</sub>](https://github.com/d-jason32) | [<img src="https://github.com/Jaspreet2004.png" width="80px;"><br><sub>@Jaspreet Singh</sub>](https://github.com/jaspreet2004) | [<img src="https://github.com/Shahran-Islam.png" width="80px;"><br><sub>@Shahran Islam</sub>](https://github.com/Shahran-Islam) | [<img src="https://github.com/melvinsalamo.png" width="80px;"><br><sub>@Melvin Salamo</sub>](https://github.com/melvinsalamo) |
-|:-----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:| 
+|:-----------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------:| 
 
 ## 🙏 Acknowledgments
 
