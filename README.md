@@ -23,16 +23,16 @@ End Game is a sleek and modern web app that lets players challenge friends or AI
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/d-jason32/SWE_Project_Group_3)
-![GitHub stars](https://img.shields.io/github/stars/d-jason32/SWE_Project_Group_3?style=social)
-![GitHub forks](https://img.shields.io/github/forks/d-jason32/SWE_Project_Group_3?style=social)
-![GitHub issues](https://img.shields.io/github/issues/d-jason32/SWE_Project_Group_3)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/d-jason32/SWE_Project_Group_3)
-![GitHub last commit](https://img.shields.io/github/last-commit/d-jason32/SWE_Project_Group_3)
+![GitHub repo size](https://img.shields.io/github/repo-size/d-jason32/chess_project)
+![GitHub stars](https://img.shields.io/github/stars/d-jason32/chess_project?style=social)
+![GitHub forks](https://img.shields.io/github/forks/d-jason32/chess_project?style=social)
+![GitHub issues](https://img.shields.io/github/issues/d-jason32/chess_project)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/d-jason32/chess_project)
+![GitHub last commit](https://img.shields.io/github/last-commit/d-jason32/chess_project)
 
-![GitHub top language](https://img.shields.io/github/languages/top/d-jason32/SWE_Project_Group_3)
-![Languages count](https://img.shields.io/github/languages/count/d-jason32/SWE_Project_Group_3)
-![License](https://img.shields.io/github/license/d-jason32/SWE_Project_Group_3)
+![GitHub top language](https://img.shields.io/github/languages/top/d-jason32/chess_project)
+![Languages count](https://img.shields.io/github/languages/count/d-jason32/chess_project)
+![License](https://img.shields.io/github/license/d-jason32/chess_project)
 </div>
 
 
