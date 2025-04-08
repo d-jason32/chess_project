@@ -1,31 +1,21 @@
-import React, { useState } from 'react';
+import React from "react";
 
-const BasicUI: React.FC = () => {
-    const [name, setName] = useState('');
-
+const HelloWorld: React.FC = () => {
     const handleClick = () => {
-        alert(`Hello, ${name || 'stranger'}!`);
+        alert("Button clicked!");
     };
 
     return (
-        <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-            <h1>Welcome to the App</h1>
-            <p>Please enter your name below:</p>
-            <input
-                type="text"
-                placeholder="Your name"
-                value={name}
-                onChange={(e) => setName(e.target.value)}
-                style={{ padding: '0.5rem', marginRight: '1rem' }}
-            />
+        <div className="p-4">
+            <h1 className="text-2xl font-bold mb-4">Hello World</h1>
             <button
                 onClick={handleClick}
-                style={{ padding: '0.5rem 1rem', backgroundColor: '#007bff', color: '#fff', border: 'none', borderRadius: '4px' }}
+                className="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600"
             >
-                Greet
+                Click Me
             </button>
         </div>
     );
 };
 
-export default BasicUI;
+export default HelloWorld;
