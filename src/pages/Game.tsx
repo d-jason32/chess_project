@@ -1,31 +1,16 @@
-import React, { useState } from 'react';
+import { Chessboard } from "react-chessboard";
 
-const BasicUI: React.FC = () => {
-    const [name, setName] = useState('');
-
-    const handleClick = () => {
-        alert(`Hello, ${name || 'stranger'}!`);
-    };
-
+export default function App() {
     return (
-        <div style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-            <h1>Welcome to the App</h1>
-            <p>Please enter your name below:</p>
-            <input
-                type="text"
-                placeholder="Your name"
-                value={name}
-                onChange={(e) => setName(e.target.value)}
-                style={{ padding: '0.5rem', marginRight: '1rem' }}
-            />
-            <button
-                onClick={handleClick}
-                style={{ padding: '0.5rem 1rem', backgroundColor: '#007bff', color: '#fff', border: 'none', borderRadius: '4px' }}
-            >
-                Greet
-            </button>
+        <div
+            style={{
+                height: "100vh",
+                display: "flex",
+                justifyContent: "center",
+                alignItems: "center",
+            }}
+        >
+            <Chessboard id="BasicBoard" boardWidth={500} />
         </div>
     );
-};
-
-export default BasicUI;
+}
