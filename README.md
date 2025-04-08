@@ -63,14 +63,15 @@ End Game is a sleek and modern web app that lets players challenge friends or AI
 !!! INSERT YOUTUBE VIDEO HERE
 
 ## 🧰 Tech Stack
+
+
+## 📚 Libraries and APIs
 chess.js
 stockfish.js
 react-chessboard
 zustand
 ws
 react-router-dom
-
-## 📚 Libraries and APIs
 
 ## 🛠️ Installation
 
